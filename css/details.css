@@ -1,0 +1,45 @@
+.current-collection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.current-collection h2 {
+    font-size: 36px;
+    margin-top: 44px;
+}
+
+.current-collec-name {
+    font-size: 36px;
+    font-weight: 300;
+    margin-top: 16px;
+}
+
+.current-collection-image {
+    width: 80%;
+    margin-top: 40px;
+}
+
+.counter {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.btn-container {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-container button {
+    width: 104px;
+    margin: 16px;
+    font-size: 20px;
+    background-color: #2a3b49;
+    color: #7BFFE9;
+    border: none;
+    border-radius: 60px;
+    padding: 8px;
+    cursor: pointer;
+}
